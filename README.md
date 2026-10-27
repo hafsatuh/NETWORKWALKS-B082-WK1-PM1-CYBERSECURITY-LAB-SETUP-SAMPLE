@@ -2,7 +2,48 @@
 
 # 🔐 Cybersecurity Lab Environment Setup
 
-**Building an isolated virtual lab for penetration testing and ethical hacking practice**
+**Building an isolated virtual lab for penetration te-SAMPLE
+Repository navigation
+Code
+Issues
+1
+ (1)
+Pull requests
+Agents
+Actions
+Projects
+Security and quality
+Insights
+Files
+Go to file
+t
+T
+1-screenshot-title-image.png
+2-screenshot-network-settings-1.png
+3-screenshot-kali-linux.png
+4-screenshot-kali-network-settings.png
+README.md
+You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork hafsatuh/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE, so you can send a pull request.
+NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+  1sting and ethical hacking practice**
 </div>
 
 <p align="center">
